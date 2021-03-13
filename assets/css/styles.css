@@ -1,0 +1,17 @@
+.container {
+    max-width: 100%;
+}
+
+.bg-blue {
+    background-color: #10152F;
+    color: white;
+}
+
+.bg-purple {
+    background-color: #701A94;
+    color: white;
+}
+
+.card-text {
+    color: #212529;
+}
